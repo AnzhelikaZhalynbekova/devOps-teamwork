@@ -1,9 +1,12 @@
 # Haw DevOps проект
 ## Описание проекта
-3aecs obmee onncaHe. ..
+Учебный DevOps проект для отработки Git workflow.
 ## Команда
-Здесь список участников.. .
-## Crex rexHononyY
-BAecs TeXHOJOTAM...
+- Anzhelika — DevOps Engineer
+## Стек технологий
+- Docker
+- Linux
 ## Инструкции по запуску
-Здесь шаги для запуска...
+1. Клонировать репозиторий
+2. Перейти в папку проекта
+
