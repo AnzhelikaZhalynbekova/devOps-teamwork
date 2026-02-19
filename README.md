@@ -2,6 +2,7 @@
 ## Описание проекта
 Учебный DevOps проект для отработки Git workflow.
 ## Команда
+- Anzhelika — DevOps Architect
 - Anzhelika — DevOps Specialist
 -Anzhelika222 - Cloud Engineer
 ## Стек технологий
